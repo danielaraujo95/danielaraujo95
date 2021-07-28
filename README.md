@@ -7,7 +7,7 @@
 - 🏇&nbsp; Sou apaixonado por esportes no geral, mas tenho um carinho especial por Hipismo
 - 🌎&nbsp; Amo viajar e conhecer pessoas novas
 
-## contato ##
+## Contato ##
 
 - 📧&nbsp; araujohipismo@gmail.com
 - 🔗&nbsp; www.linkedin.com/in/danielaraujo95
