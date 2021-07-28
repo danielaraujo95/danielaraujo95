@@ -4,8 +4,8 @@
 - 🧠 &nbsp; Estou aprendendo e me desenvolvendo nas tecnologias voltadas para o Front End
 - 📚 &nbsp; Gosto de aprender sobre novas tecnologias
 - ✌🏾&nbsp; Além de aprender, também gosto de ensinar 
-- 🏇&nbsp; Sou apaixonado por Hipismo
-- 🌎&nbsp; Adoro viajar 
+- 🏇&nbsp; Sou apaixonado por esportes no geral, mas tenho um carinho especial por Hipismo
+- 🌎&nbsp; Amo viajar e conhecer pessoas novas
 
 ## contato ##
 
