@@ -9,5 +9,5 @@
 
 ## Contato ##
 
-- 📧&nbsp; araujohipismo@gmail.com
-- 🔗&nbsp; www.linkedin.com/in/danielaraujo95
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailtoaraujohipismo@gmail.com)](mailto:araujohipismo@gmail.com)
+
