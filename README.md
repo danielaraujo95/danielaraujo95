@@ -11,3 +11,5 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailtoaraujohipismo@gmail.com)](mailto:araujohipismo@gmail.com)
 
+<img alt="LinkedIn" height="26px" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&labelColor=blue&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielaraujo95/" />
+
