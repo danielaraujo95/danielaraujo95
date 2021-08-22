@@ -7,10 +7,6 @@
 - 🎯&nbsp; Meu objetivo é me tornar um Desenvolvedor Web Full-Stack
 - 🌎&nbsp; Amo viajar e conhecer pessoas novas
 
-## Contato ##
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailtoaraujohipismo@gmail.com)](mailto:araujohipismo@gmail.com) <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&labelColor=blue&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielaraujo95/" />
-
 <h2 align="left">I'm learning:<h2>
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -26,4 +22,8 @@
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 </p>
+      
+## Contato ##
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailtoaraujohipismo@gmail.com)](mailto:araujohipismo@gmail.com) <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&labelColor=blue&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielaraujo95/" />
 
